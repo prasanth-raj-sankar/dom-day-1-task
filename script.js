@@ -19,7 +19,7 @@ function foo() {
     var email = document.getElementById("email").value;
     var phone = document.getElementById("phone").value;
 
-    console.log(`name:${name} Middle:${Middle} Lastname:${Lastname} email${email} phone${phone}`)
+    console.log(`name:${name} Middle:${Middle} Lastname:${Lastname} email:${email} phone:${phone}`)
 
 
 }
